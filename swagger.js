@@ -5,7 +5,7 @@ const doc = {
     title: 'Khanh Ha API',
     description: 'Description',
   },
-  host: 'ha-restful-api-with-db.herokuapp.com/',
+  host: 'ha-restful-api-with-db.herokuapp.com',
   // host: 'localhost:4000',
   schemes: ['https'],
 };
