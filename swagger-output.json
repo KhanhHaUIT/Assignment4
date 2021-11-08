@@ -5,7 +5,7 @@
     "description": "Description",
     "version": "1.0.0"
   },
-  "host": "ha-restful-api-with-db.herokuapp.com/",
+  "host": "ha-restful-api-with-db.herokuapp.com",
   "basePath": "/",
   "tags": [],
   "schemes": [
